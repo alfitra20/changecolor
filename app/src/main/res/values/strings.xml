@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sobree</string>
+    <string name="textViewText">Please touch the screen to hide/unhide the buttons!</string>
+    <string name="colorW">W</string>
+    <string name="colorB">B</string>
+    <string name="colorR">R</string>
+    <string name="colorY">Y</string>
+    <string name="colorG">G</string>
+    <string name="visibility">layoutVisibility</string>
+    <string name="color">textColor</string>
+</resources>
